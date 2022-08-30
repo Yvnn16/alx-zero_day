@@ -1,1 +1,1 @@
-My second task
+Second task
